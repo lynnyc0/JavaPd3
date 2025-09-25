@@ -24,7 +24,7 @@ class Main {
   double z = Input.readDouble();
   double q = 0;
   q = Math.pow(z, 3) +5;
-  System.out.println(q);
+  System.out.println(q0;
 
 /*  
     Challenge 3:
